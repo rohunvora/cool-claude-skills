@@ -24,6 +24,13 @@ Apply opinionated styling to barebones HTML.
 | `.status-success` `.status-error` | Colored pills |
 | `.section-header` | Dark bar divider |
 
+## Examples
+
+See the skill in action using the same Northline weekly ops fixture:
+
+- [Before](https://skill-fixture-before.theroost.dev?vr_gallery=1) - Basic styling, shared fixture
+- [After](https://html-style-after.theroost.dev?vr_gallery=1) - Styled with this skill's stylesheet
+
 ## Resources
 
 - `assets/base.css` - Full stylesheet
